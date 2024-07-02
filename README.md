@@ -1,6 +1,8 @@
+![Front-end web Developer](https://scontent.fbzl5-1.fna.fbcdn.net/v/t39.30808-6/373039163_832788485153742_8129090926503214901_n.jpg?stp=dst-jpg_p640x640&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHfshHIA-azOmm8aGdnhoH8X05HjXQ5mRNfTkeNdDmZE8mRqrIhxU1YSNufCbakBzPW9pMzQgXbsNcaY19NwOY6&_nc_ohc=F2396-u6VS4Q7kNvgEa8d6L&_nc_ht=scontent.fbzl5-1.fna&oh=00_AYAY99MYWllD9MSnZJO5TBSnu6WlKzLUBmifGrFg8VgibA&oe=6689BA11)
+
+
 ### Hi there 👋, I'm Tauhid Hossen
 #### Front-end web Developer
-![Front-end web Developer](https://scontent.fbzl5-1.fna.fbcdn.net/v/t39.30808-6/373039163_832788485153742_8129090926503214901_n.jpg?stp=dst-jpg_p640x640&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHfshHIA-azOmm8aGdnhoH8X05HjXQ5mRNfTkeNdDmZE8mRqrIhxU1YSNufCbakBzPW9pMzQgXbsNcaY19NwOY6&_nc_ohc=F2396-u6VS4Q7kNvgEa8d6L&_nc_ht=scontent.fbzl5-1.fna&oh=00_AYAY99MYWllD9MSnZJO5TBSnu6WlKzLUBmifGrFg8VgibA&oe=6689BA11)
 
 Hello! I'm Tauhid, a dedicated front-end web developer passionate about crafting engaging and responsive user interfaces. With 2 years of experience, I specialize in HTML, CSS, and JavaScript, and have hands-on experience with frameworks like React. I thrive on translating complex designs into polished, user-friendly experiences that drive engagement and meet client objectives. Let's collaborate to create compelling digital solutions that make a difference!
 
