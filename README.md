@@ -6,7 +6,7 @@
 
 Hello! I'm Tauhid, a dedicated front-end web developer passionate about crafting engaging and responsive user interfaces. With 2 years of experience, I specialize in HTML, CSS, and JavaScript, and have hands-on experience with frameworks like React. I thrive on translating complex designs into polished, user-friendly experiences that drive engagement and meet client objectives. Let's collaborate to create compelling digital solutions that make a difference!
 
-Skills:   HTML5 / Tailwind CSS / JavaScript / React JS
+Skills:   HTML5 / Tailwind CSS / JavaScript / React JS /  FireBase / MongoDB / Node JS / Express JS 
 
 - 🔭 I’m currently working on Programming-Hero Jobplacemt team 
 - 🌱 I’m currently learning Express js, Node js 
