@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **tauhidhossen04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C6bPRtnTaWSbIJZW8FYJphwyVO9LrrQy/view?usp=sharing](https://drive.google.com/file/d/1C6bPRtnTaWSbIJZW8FYJphwyVO9LrrQy/view?usp=sharing)
+- 📄 Know about my experiences [Full Stack Developer CV.pdf](https://github.com/user-attachments/files/29300925/Full.Stack.Developer.CV.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
