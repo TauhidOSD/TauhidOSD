@@ -1,4 +1,5 @@
-![logo](https://github.com/TauhidOSD/TauhidOSD/blob/main/image-DOFYw6on.png)
+<img width="2000" height="600" alt="Dev_Cover" src="https://github.com/user-attachments/assets/cfbd89bc-a5a5-446f-badc-89a821d24152" />
+
 <h1 align="center">Hi 👋, I'm Tauhid Hossen</h1>
 <h3 align="center">A Passionate MERN Stack Web Developer</h3>
 
